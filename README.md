@@ -66,7 +66,7 @@
 
 **Hyung Jo Yang**
 - [**@**](https://github.com/)   
-- <xxx@gmail.com>  
+- <brothergive@ajou.ac.kr>  
 
 **Yekaterina Kim**
 - [**@**](https://github.com/)
